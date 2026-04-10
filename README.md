@@ -133,7 +133,6 @@ gtkwave tlc_fsm.vcd
 * Add separate outputs for RED/YELLOW/GREEN
 * Add pedestrian crossing logic
 * Introduce configurable timers
-* Upgrade to SystemVerilog using `enum`
 * Add assertions for state checking
 
 ---
